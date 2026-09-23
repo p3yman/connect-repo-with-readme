@@ -1,5 +1,5 @@
 resource "lab" "main" {
-  title       = "Even older lab"
+  title       = "Even older lab 2"
   description = <<-EOF
   This is the Skeleton Lab.
   You can use this as a minimal starting point for developing labs.
