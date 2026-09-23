@@ -1,5 +1,5 @@
 resource "lab" "main" {
-  title       = "try-connect"
+  title       = "Old lab"
   description = <<-EOF
   This is the Skeleton Lab.
   You can use this as a minimal starting point for developing labs.
